@@ -8,7 +8,7 @@
 * This is a small project I made over a weekend while I was taking a computer graphics course. It's a little rough around the edges, but the point was slap something together fast that I could use to pick colours for the objects I created in my course projects.
 * The main reason I made this project was to be able to more easily pick colours in my graphics projects. I wanted to be able to add a little flair to my objects by choosing better colours, and this seemed the easiest way to quickly find nice looking colours.
 * I also really wanted to learn a bit about building gui's in C++ with wxWidgets, so this was my first attempt using that library.
-* You may notice the colours and objects look a little funny in this program. That's because we were using a deprecated method of rendering for my course, and at the time of building this project I haden't yet learned about proper lighting and shading techniques. This program still served its purpose however.
+* You may notice the colours and objects look a little funny in this program. That's because we were using a deprecated method of rendering for my course, and at the time of building this project I hadn't yet learned about proper lighting and shading techniques. This program still served its purpose however.
 
 ### Disclaimer
 * This was not meant to be a complete project, nor was it meant to follow any best practices. You will find that the project is lacking on comments, and includes a few hacky solutions. 
