@@ -108,12 +108,12 @@ void GLPanel::draw(wxPaintEvent &event)
 
 	glPushMatrix();
 	glPushMatrix();
-	glTranslatef(3.0f, 3.0f, 5.0f);
+	glTranslatef(0.0f, 3.0f, 5.0f);
 	glRotatef(rotateVal, 0.0f, 1.0f, 0.0f);
 	gluSphere(sphere1, 2.0f, 10, 10);
 	glPopMatrix();
 	glPushMatrix();
-	glTranslatef(3.0f, -3.0f, 5.0f);
+	glTranslatef(0.0f, -3.0f, 5.0f);
 	gluSphere(sphere2, 2.0f, 10, 10);
 	glPopMatrix();
 	glPopMatrix();
