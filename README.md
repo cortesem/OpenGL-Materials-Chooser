@@ -1,5 +1,9 @@
 # OpenGL-Materials-Chooser
 
+### Screenshot
+
+![](screenshot.gif)
+
 ### About
 * This is a small project I made over a weekend while I was taking a computer graphics course. It's a little rough around the edges, but the point was slap something together fast that I could use to pick colours for the objects I created in my course projects.
 * The main reason I made this project was to be able to more easily pick colours in my graphics projects. I wanted to be able to add a little flair to my objects by choosing better colours, and this seemed the easiest way to quickly find nice looking colours.
@@ -16,6 +20,3 @@
 * Alternatively you can edit the VS project properties and replace $(WXWIN) with the path to your wxWidgets build. You will need to replace this in the C++ options and Linker options (include and library directories).
 * For more info on building wxWidgets, check out [this video](https://www.youtube.com/watch?v=FOIbK4bJKS8) which put me on the path of playing around with the wxWidgets library.
 
-### Screenshots
-
-![](screenshot.gif)
