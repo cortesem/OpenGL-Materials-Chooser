@@ -1,0 +1,15 @@
+#pragma once
+// Probably a bad idea
+#define AMB_SL_RED 10000
+#define AMB_SL_GREEN 10001
+#define AMB_SL_BLUE 10002
+#define AMB_SL_ALPHA 10003
+#define SPEC_SL_RED 10004
+#define SPEC_SL_GREEN 10005
+#define SPEC_SL_BLUE 10006
+#define SPEC_SL_ALPHA 10007
+#define DIFF_SL_RED 10008
+#define DIFF_SL_GREEN 10009
+#define DIFF_SL_BLUE 10010
+#define DIFF_SL_ALPHA 10011
+#define SHIN_SL 10012
