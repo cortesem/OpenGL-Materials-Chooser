@@ -14,7 +14,7 @@
 * This was not meant to be a complete project, nor was it meant to follow any best practices. You will find that the project is lacking on comments, and includes a few hacky solutions. 
 
 ### Building this project
-* You should not build this project unless you are interested in playing around with it yourself. Instead you can check out the screenshots below to see it in action!
+* You should not build this project unless you are interested in playing around with it yourself. Instead you can check out the screenshots above to see it in action!
 * If you do choose to build it, I recommend building on Windows since this project was set up with Visual Studio and I do not have proper makefiles for building on linux/mac.
 * To build the project, you will need to have a wxWidgets build on your computer and create a system variable called "WXWIN" that points to your wxWidgets folder. ex. C:\SDK\wxWidgets\wxWidgets-3.1.5
 * Alternatively you can edit the VS project properties and replace $(WXWIN) with the path to your wxWidgets build. You will need to replace this in the C++ options and Linker options (include and library directories).
